@@ -1,0 +1,147 @@
+main
+
+Training Neural Network...
+Iteration   172 | Cost: 2.452295e-003
+Program paused. Press enter to continue.
+J =  0.0025806
+octave:3> main
+
+Training Neural Network...
+Iteration   400 | Cost: 1.916147e-003
+Program paused. Press enter to continue.
+J =  0.0019388
+octave:4> main
+
+Training Neural Network...
+Iteration   300 | Cost: 1.953334e-003Iteration   235 | Cost: 1.957589e-003Iteration   281 | Cost: 1.954096e-003Iteration   290 | Cost: 1.953588e-003Iteration   301 | CoIteration   400 | Cost: 1.952042e-003-003Iteration   323 | Cost: 1.95245Iteration   368 | Cost: 1.952136e-003Iteration   369 | Cost: 1.952134e-003
+ans =
+
+   0.0000000   0.0022236
+
+Iteration    75 | Cost: 3.005679e-003Iteration    19 | Cost:Iteration    27 | Cost: 3.863320e-003Iteration    28 | Cost:Iteration    87 | Cost: 2.930796e-003 2.984680e-Iteration   111 | Cost: 2.217991e-003003Iteration   112 | Cost: 2.215136Iteration   400 | Cost: 2.128958e-003
+ans =
+
+   0.3000000   0.0026253
+
+Iteration   400 | Cost: 2.146605e-003Iteration   117 | Cost: 2.386461e-003
+ans =
+
+   0.6000000   0.0027905
+
+Iteration   217 | Cost: 2.372280e-003
+ans =
+
+   0.9000000   0.0031316
+
+Iteration   201 | Cost: 2.312046e-003
+ans =
+
+   1.2000000   0.0030165
+
+Iteration    73 | Cost: 2.570280e-003
+ans =
+
+   1.5000000   0.0033588
+
+Iteration   400 | Cost: 2.352043e-003
+ans =
+
+   1.8000000   0.0033724
+
+Iteration   254 | Cost: 2.532596e-003
+ans =
+
+   2.1000000   0.0035929
+
+Iteration   117 | Cost: 2.729522e-003
+ans =
+
+   2.4000000   0.0037576
+
+Iteration   287 | Cost: 2.636378e-003
+ans =
+
+   2.7000000   0.0038195
+
+Iteration   400 | Cost: 2.804627e-003
+ans =
+
+   3.0000000   0.0040929
+
+octave:5> main
+
+Training Neural Network...
+Iteration   400 | Cost: 2.420245e-003
+ans =
+
+   0.0000000   0.0027113
+
+
+Training Neural Network...
+Iteration   400 | Cost: 2.627837e-003
+ans =
+
+   0.3000000   0.0031030
+
+
+Training Neural Network...
+Iteration   400 | Cost: 1.719029e-003
+ans =
+
+   0.6000000   0.0024816
+
+
+Training Neural Network...
+Iteration   400 | Cost: 2.072835e-003
+ans =
+
+   0.9000000   0.0028159
+
+
+Training Neural Network...
+Iteration   400 | Cost: 2.285767e-003
+ans =
+
+   1.2000000   0.0035169
+
+
+Training Neural Network...
+Iteration   400 | Cost: 2.374286e-003
+ans =
+
+   1.5000000   0.0032652
+
+
+Training Neural Network...
+Iteration    72 | Cost: 2.063517e-003
+ans =
+
+   1.8000000   0.0030636
+
+
+Training Neural Network...
+Iteration   400 | Cost: 2.458619e-003
+ans =
+
+   2.1000000   0.0037973
+
+
+Training Neural Network...
+Iteration   400 | Cost: 2.048780e-003
+ans =
+
+   2.4000000   0.0034819
+
+
+Training Neural Network...
+Iteration   185 | Cost: 2.771244e-003
+ans =
+
+   2.7000000   0.0049342
+
+
+Training Neural Network...
+Iteration   400 | Cost: 2.175124e-003
+ans =
+
+   3.0000000   0.0037105
